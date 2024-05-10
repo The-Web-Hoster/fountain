@@ -1,0 +1,67 @@
+a {
+    color:white;
+    text-decoration: none;
+}
+.div {
+    margin: auto;
+    width: 52%;
+    border: none;
+    padding: 10px;
+    background-color: #333333;
+}
+div {
+    margin: auto;
+    width: 98%;
+    border: none;
+    padding: 10px;
+    background-color: #333333;
+}
+h1 {
+    font-family: Pacifico;
+    font-weight: bold;
+}
+h2 {
+    font-weight: lighter;
+    font-family: Pacifico;
+}
+p {
+    font-family: Lobster;
+    font-size: 25px;
+    
+}
+.intro, .outro {
+    font-family: Cedarville Cursive;
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+}
+body {
+    background-color: #000;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+    margin-right: 10px;
+  }
+  
+li {
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-family: Trebuchet MS;
+  }
+  
+li a:hover {
+    background-color: #111111;
+  }
